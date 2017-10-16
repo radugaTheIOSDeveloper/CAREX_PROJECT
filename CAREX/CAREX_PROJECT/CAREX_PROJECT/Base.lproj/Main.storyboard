@@ -17,6 +17,14 @@
         </array>
     </customFonts>
     <scenes>
+        <!--Page View Controller-->
+        <scene sceneID="yfx-nX-CJN">
+            <objects>
+                <pageViewController autoresizesArchivedViewToFullSize="NO" transitionStyle="pageCurl" navigationOrientation="horizontal" spineLocation="min" id="6h4-jv-7eJ" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="rim-Ja-Sta" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="110" y="-68"/>
+        </scene>
         <!--Start Screen-->
         <scene sceneID="wGE-oN-NTG">
             <objects>
@@ -1016,7 +1024,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="CWx-lo-hZn" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2849" y="-92"/>
+            <point key="canvasLocation" x="1820" y="-69"/>
         </scene>
         <!--Menu View Controller-->
         <scene sceneID="ebv-8Q-80h">
@@ -1332,7 +1340,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="E8V-2G-2Wk" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3579" y="-93"/>
+            <point key="canvasLocation" x="2464" y="-114"/>
         </scene>
         <!--Zagluchka View Controller-->
         <scene sceneID="mUl-QQ-qUz">
@@ -1356,7 +1364,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="VmQ-zw-DwN" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4354" y="-772"/>
+            <point key="canvasLocation" x="4309" y="-772"/>
         </scene>
         <!--Swich Map-->
         <scene sceneID="3qa-ah-ueU">
@@ -1457,7 +1465,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="yJa-yc-37A" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="5209" y="-991"/>
+            <point key="canvasLocation" x="3242" y="-787"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="idZ-7S-FgJ">
